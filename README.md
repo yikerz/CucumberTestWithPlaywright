@@ -17,25 +17,6 @@
 3. **Install Playwright**
    - Press `Ctrl + Shift + P` in VSCode, type "Install Playwright" and select the option to install Playwright.
 
-## Project Structure
-project-root
-│
-├── (tests)
-├── (tests-examples)
-├── (playwright.config.ts)
-├── cucumber.json
-├── src
-│   ├── test
-│   │   ├── features       // store feature files
-│   │   ├── steps          // store step definition files
-│   ├── hooks              // store before & after hooks
-│   │   ├── hooks.ts
-│   │   ├── Fixture.ts
-│   ├── helper
-│       ├── report.ts
-│       ├── browserManager.ts // launch different browser by case
-
-
 ## VSCode Settings
 
 4. **Configure Cucumber Settings in VSCode**
