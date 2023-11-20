@@ -2,7 +2,7 @@ Feature: Login function
 
   Background: 
     Given User navigates to the application
-    And User clicks on the pratice link text
+    And User clicks on the practice link text
     And User clicks on the Test Login Page link text
 
   Scenario Outline: Login successful
